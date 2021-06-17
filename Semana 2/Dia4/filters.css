@@ -1,0 +1,12 @@
+
+
+    .filtro3:hover { 
+    border-radius: 50%;
+    -webkit-filter: hue-rotate(45deg);
+    filter: hue-rotate(45deg);
+    filter: saturate(50%);
+    filter: brightness(45%);
+    filter: contrast(39%);
+}
+
+    
